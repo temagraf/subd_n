@@ -18,7 +18,7 @@
 ---
 ### Легенда
 
-Заказчик передал вам [файл в формате Excel](https://github.com/temagraf/subd/blob/main/resources/hw-12-1.xlsx), в котором сформирован отчёт. 
+Заказчик передал вам [файл в формате Excel](https://github.com/temagraf/subd_n/blob/main/resources/hw-12-1.xlsx), в котором сформирован отчёт. 
 
 На основе этого отчёта нужно выполнить следующие задания.
 
